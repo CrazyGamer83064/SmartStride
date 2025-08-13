@@ -3,8 +3,6 @@ This repository contains all of the code and information for the SmartStride sys
 
 The programs in this will only be able to upload to your Arduino if you have the Arduino IDE and you have a wired connection to your Arduino UNO R3.
 
-Smart Pedestrian Crossing System
-
 The Smart Pedestrian Crossing System (SPCS) which uses sensors and smart switches to help illuminate the crossings to improve visibility for pedestrians while alerting drivers.
 The Smart Pedestrian Crossing System (SPCS) consists of:
 LiDAR Range Finder Sensor to detect pedestrian at the crossing
